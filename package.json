@@ -1,13 +1,13 @@
 {
-  "name": "file-type",
+  "name": "get-file-type-es5",
   "version": "7.4.0",
-  "description": "Detect the file type of a Buffer/Uint8Array",
+  "description": "Detect the file type of a Buffer/Uint8Array in ES5 (can be used for browser and create-react-app",
   "license": "MIT",
-  "repository": "sindresorhus/file-type",
+  "repository": "vhchung/file-type",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "chungvh",
+    "email": "chung.k54thb@gmail.com",
+    "url": "chungvh.com"
   },
   "engines": {
     "node": ">=4"

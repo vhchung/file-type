@@ -1,14 +1,14 @@
-# file-type [![Build Status](https://travis-ci.org/sindresorhus/file-type.svg?branch=master)](https://travis-ci.org/sindresorhus/file-type)
-
 > Detect the file type of a Buffer/Uint8Array
 
 The file type is detected by checking the [magic number](http://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_numbers_in_files) of the buffer.
+
+This repository is a fork of [sindresorhus/file-type](https://github.com/sindresorhus/file-type) that includes an ES5 build for the browser.
 
 
 ## Install
 
 ```
-$ npm install file-type
+$ npm install get-file-type-es5
 ```
 
 *Show your support for this module by buying this excellent [Node.js course](https://LearnNode.com/friend/AWESOME).*
